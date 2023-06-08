@@ -1,14 +1,14 @@
 {
-    "name": "Queen Amdi",
-    "description": "Queen Amdi [Multi-device] - A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience. 💃🏻❤️",
+    "name": "A B Abubakar Baloch",
+    "description": "DEVBALOCH [Multi-device] - A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience. 💃🏻❤️",
     "keywords": [
-        "Queen Amdi",
+        "DeVBaloCH",
         "WhatsApp",
         "Black Amda",
         "multi-device"
     ],
-    "website": "https://amdaniwasa.com/",
-    "repository": "https://github.com/BlackAmda/QueenAmdi",
+    "website": "https://www.youtube.com/@allbotuser",
+    "repository": "https://www.youtube.com/@allbotuser",
     "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
     "success_url": "https://dashboard.heroku.com/apps/",
     "env": {
@@ -24,12 +24,12 @@
         "LANGUAGE": {
             "description": "Bot language",
             "required": true,
-            "value": "EN"
+            "value": "UR"
         },
         "TZ": {
             "description": "Your timezone",
             "required": true,
-            "value": "Asia/Colombo"
+            "value": "Karachi/pakistan"
         }
     },
     "buildpacks": [
